@@ -2,7 +2,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Fullstack Web. Interesse em criar soluções eficientes e escaláveis, sempre aprendendo novas tecnologias, boas práticas de programação e transformando ideias em código 🚀
 
-📊 Estatísticas
+## 📊 Estatísticas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunog-code&hide_progress=false)
 
