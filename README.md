@@ -2,12 +2,17 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Fullstack web/mobile. Interesse em criar soluções eficientes e escaláveis, sempre aprendendo novas tecnologias, boas práticas de programação e transformando ideias em código 🚀
 
-## 📊 Estatísticas
+## 📊 Estatísticas 
 
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunog-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunog-code&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+### 1. Sequência de Contribuições (Streak Stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunog-code&theme=dracula" />
+
+---
+
+### 2. Gráfico de Atividade (31 dias)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brunog-code&theme=dracula" />
+
+---
 
 ## Tecnologias
 
