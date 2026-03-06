@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvime
 
 ## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunog-code&hide_progress=false)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunog-code&show_icons=true&theme=tokyonight)
 
 ## Tecnologias
 
